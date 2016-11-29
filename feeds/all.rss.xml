@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>;; Recursively Stupid : ;; Recursively Stupid </title>
+  <description>;; Recursively Stupid : ;; Recursively Stupid </description>
+  <link>https://user404d.github.io/index.html</link>
+  <lastBuildDate>Tue, 29 Nov 2016 00:56:57 UT</lastBuildDate>
+  <pubDate>Tue, 29 Nov 2016 00:56:57 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>What in the World...</title>
+   <link>https://user404d.github.io/blog/2016/11/28/what-in-the-world/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid>urn:https-user404d-github-io:-blog-2016-11-28-what-in-the-world</guid>
+   <pubDate>Tue, 29 Nov 2016 00:56:57 UT</pubDate>
+   <description>&lt;html&gt;
+&lt;p&gt;&lt;em&gt;Blogging is fashionable again, so I too will add some noise to the mix.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="why-blog-at-all"&gt;Why &lt;code&gt;blog&lt;/code&gt; at all?&lt;/h2&gt;
+
+&lt;p&gt;My hope is that this platform will give me the opportunity to show off cool projects that I work on while refining my writing and communication skills. I am interested in a wide range of topics in computer science, but tend to stay in the general (and broad) areas of programming language theory and design, artificial intelligence, and security. I also plan to make casual posts from time to time to try and regain perspective and a little sanity.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;:doot:&lt;/p&gt;&lt;/html&gt;</description></item></channel></rss>

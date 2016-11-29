@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">;; Recursively Stupid : ;; Recursively Stupid </title>
+ <link rel="self" href="https://user404d.github.io/feeds/all.atom.xml" />
+ <link href="https://user404d.github.io/index.html" />
+ <id>urn:https-user404d-github-io:-index-html</id>
+ <updated>2016-11-29T00:56:57Z</updated>
+ <entry>
+  <title type="text">What in the World...</title>
+  <link rel="alternate" href="https://user404d.github.io/blog/2016/11/28/what-in-the-world/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:https-user404d-github-io:-blog-2016-11-28-what-in-the-world</id>
+  <published>2016-11-29T00:56:57Z</published>
+  <updated>2016-11-29T00:56:57Z</updated>
+  <author>
+   <name>user404d</name></author>
+  <content type="html">&lt;html&gt;
+&lt;p&gt;&lt;em&gt;Blogging is fashionable again, so I too will add some noise to the mix.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="why-blog-at-all"&gt;Why &lt;code&gt;blog&lt;/code&gt; at all?&lt;/h2&gt;
+
+&lt;p&gt;My hope is that this platform will give me the opportunity to show off cool projects that I work on while refining my writing and communication skills. I am interested in a wide range of topics in computer science, but tend to stay in the general (and broad) areas of programming language theory and design, artificial intelligence, and security. I also plan to make casual posts from time to time to try and regain perspective and a little sanity.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;:doot:&lt;/p&gt;&lt;/html&gt;</content></entry></feed>
