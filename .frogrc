@@ -1,5 +1,5 @@
 # Required: Should NOT end in trailing slash.
-scheme/host = https://www.example.com
+scheme/host = https://user404d.github.io
 
 # A path prepended to URIs, including those specified here in .frogrc
 # such as `permalink` and `posts-index-uri`. Defaults to `/`. This is
@@ -7,11 +7,11 @@ scheme/host = https://www.example.com
 uri-prefix = /
 
 # The title of the blog. Used when generating feeds.
-title = |# Recursively Stupid #| (define (stupid) (stupid))
+title = ;; Recursively Stupid 
 
 # The author. Used when generating feeds, and provided to
 # `page-template.html` as the template variable `@author`.
-author = The Unknown Author
+author = user404d
 
 # What editor to launch with --edit. $EDITOR means to use $EDITOR from
 # the environment
@@ -112,8 +112,8 @@ output-dir = .
 ## Python executable to be passed to the shell. If only a filename or
 ## relative path is given, Racket's find-executable-path will be used
 ## to locate the executable.
-python-executable = pypy3
+python-executable = python
 ## Whether to use line numbers.
 pygments-linenos? = true
 ## CSS class for the wrapping <div> tag (default: 'highlight').
-pygments-cssclass = source
+pygments-cssclass = syntax
