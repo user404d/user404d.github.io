@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/user404d
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://user404d.github.io
+  * I am user404d (https://keybase.io/user404d) on keybase.
+  * I have a public key with fingerprint 6823 5E4A A5EB 3302 59C0  3AC9 2DB6 20B7 2CE3 E3B8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202f51717b12846210ff10fefae316610fff7837c725038cb5cbd4b822f4c0860e0a",
+      "fingerprint": "68235e4aa5eb330259c03ac92db620b72ce3e3b8",
+      "host": "keybase.io",
+      "key_id": "2db620b72ce3e3b8",
+      "kid": "0101e13d23515ebcff72f6da6071b0d283b67502031a02a420670123c9e03ce4b8760a",
+      "uid": "3c9ec9919efdb0d77e3376e49f08d119",
+      "username": "user404d"
+    },
+    "service": {
+      "hostname": "user404d.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519893620,
+  "expire_in": 157680000,
+  "prev": "5d77161425431c3d1a57a3e6dd89ed688f63efab4e70f16e1951d65cc6fde6f1",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ7UFRVHGYBrXB6IWgRg811MMplu+e+7y7CZM04igxG4jiA4n2cu1wW
+dpfdC+QAKcaEiGkZyGATDK+ygRVrEIORCCJhZS2FQstR41VDY5EPoKGQzqX8p+nO
+nLnn8X3f7/t+5/Q9GuAXZIhuf/ascXz8M8NgT02uX0rVOa0AEx3yXsxcgNng0g9m
+ydCtpdtUGTNjOCBwQqEBC1gREBzFEABXFDSgIkASMIy+VFiOZCWWoHGSk0RaEmVK
+5AhCoSScY3CIC5gRU1S7FbqcLtWuIVmGI0gaUoJAQ5EkcYLmJZwUJJ6QRYbARZaQ
+IAlJkUPEDIdbZyBzouCGJtWB9tAifcne/+Af+MYBBKSMygBUQ0IeCYWRBQZngYjL
+BEeKDEvjBE4CAScEisAZFmUlJR7ipASRf5ZZ8p27JKfvSzwPeKjIiM6ykCRZBlK8
+gnMyALwOdEOXXciGCK1PKZySsSIjhqZ5qgT1xupJ/oMwWVUtI1f8J5XT5dAckiML
+nWdomtNt1vnaXqdOyIdi+r9S6aJql1E3ESMPutyqw46ZAUJKmqprAxrwHE+ithgx
++LpTdcF0VUfQLMPh6NPrwDwkSaMYgAEUQVMkkEgZCDQrkJCRZY6HMsNxCkOiWxYp
+yOIKYCDgaSAztCQxigwZBWB6uBy7A2kD5FOwIk23arULWq4LYkW9PWmBfoYgv+XL
+/PVn5hf0yBMPHt+rQ48vrGqe31e6sW/NgQ21Y2pc2J8fPGRZHPRcvry65OFDv4QY
+3nxNKw/3n++3d90+FLy+4cd338vceirCvyhhsaS8VLjuesnb3bk1tCUx7e6m/I/k
+hRfrf5gY6ODzJ7O2xd/0ZVd+fnAk6U7TW2vkwDT72Lfn/etN15tiVlrpSmV9WPT3
+F8R+yw3bxoub13m2RP10uKSsJSboaox30DI8/LISNvpbzGkuZbJmqLgotDd1uvVT
+2+b4YxfqyqUD438tD3mqbLbnfOzRpIL8/trGpm/CndsMrQGL5pPrYFWj1H9oyhtZ
+Jh3ZXrPBUTv5dVtkhscVe8zblrrKV9f8dvctjh9rKBi1fllyPKpoylLV+8eRF3a3
+GHbNZN4oPkOcCalo/jBrmX2q0BdYvPNecnahuYb9uDm2cWKH6eyVdxq3nOsfsT19
+nB4/nR8+cjE4t1reY3zmu5q8S0qj5XZ7c5bv17tO3x5n9InqVwxXKuIDa8En2tHC
+1dWHr+3fnrE74jFvXM/a+6WlJxeJ+Z9T2leqcQdvGmfXRjUFmeYuJVIdFvPCfOj0
+1M6yfTNee3bCnaSchhOm7NQnd+y/NxNpmXU+P5GTltAREePpwqY9VSsorlXsrOz+
+qm96cG5X3alK19X7fm1d2sDQrCewZSG5/ndfwFDFtYHhhM4IZcVzo9O32PeT58ob
+Mr+wBW8SEt9w/Q1WLM9Q
+=23PP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/user404d
+
+==================================================================
